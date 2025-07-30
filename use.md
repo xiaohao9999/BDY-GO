@@ -6,6 +6,7 @@
    git clone https://github.com/SanMumumu/BDY-GO.git
    cd BDY-GO
    ./BaiduPCS-Go
+   chmod +x BaiduPCS-Go
    ```
 
 2. **Login to Baidu Cloud**
